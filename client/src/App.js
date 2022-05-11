@@ -41,6 +41,7 @@ function App() {
               <h1>Name: {user.name}</h1>
               <h1>Age: {user.age}</h1>
               <h1>Username: {user.username}</h1>
+              <h2>See my data above</h2>
             </div>
           )
         })}
